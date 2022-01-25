@@ -7,9 +7,9 @@ Image-based rock typing (IBRT) is an effective way to understand the pore scale 
 Simply run `SSCV` in Matlab.
 ## Examples
 * Example 1
-<img src = "https://github.com/cyliu111/SSCV/blob/main/image/d1.jpg" width = "275"> <img src = "https://github.com/cyliu111/SSCV/blob/main/image/d1_contour.jpg" width = "275"> <img src = "https://github.com/cyliu111/SSCV/blob/main/image/d1_segments.jpg" width = "275">
+<img src = "https://github.com/cyliu111/SSCV/blob/main/image/d1.jpg" width = "225"> <img src = "https://github.com/cyliu111/SSCV/blob/main/image/d1_contour.jpg" width = "225"> <img src = "https://github.com/cyliu111/SSCV/blob/main/image/d1_segments.jpg" width = "225">
 * Example 2
-<img src = "https://github.com/cyliu111/SSCV/blob/main/image/d2.jpg" width = "275"> <img src = "https://github.com/cyliu111/SSCV/blob/main/image/d2_contour.jpg" width = "275"> <img src = "https://github.com/cyliu111/SSCV/blob/main/image/d2_segments.jpg" width = "275">
+<img src = "https://github.com/cyliu111/SSCV/blob/main/image/d2.jpg" width = "225"> <img src = "https://github.com/cyliu111/SSCV/blob/main/image/d2_contour.jpg" width = "225"> <img src = "https://github.com/cyliu111/SSCV/blob/main/image/d2_segments.jpg" width = "225">
 * Example 3
-<img src = "https://github.com/cyliu111/SSCV/blob/main/image/d3_o.jpg" width = "275"> <img src = "https://github.com/cyliu111/SSCV/blob/main/image/d3_contour.jpg" width = "275"> <img src = "https://github.com/cyliu111/SSCV/blob/main/image/d3_segments.jpg" width = "275"> <br> <br>
+<img src = "https://github.com/cyliu111/SSCV/blob/main/image/d3_o.jpg" width = "225"> <img src = "https://github.com/cyliu111/SSCV/blob/main/image/d3_contour.jpg" width = "225"> <img src = "https://github.com/cyliu111/SSCV/blob/main/image/d3_segments.jpg" width = "225"> <br> <br>
 In each example, the first image is the original image. The second one and third one show the final contours and segments obtained by SSCV model.
