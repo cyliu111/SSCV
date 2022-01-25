@@ -1,5 +1,6 @@
 # Specific Surface Chan-Vese (SSCV) Model for Image-Based Rock Typing
-Abstract
+## Overview
+This is the code for SSCV model.
 ## Prerequisites
 * Matlab versions R2018b and later.
 ## How to use
